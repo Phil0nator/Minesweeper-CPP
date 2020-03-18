@@ -1,0 +1,20 @@
+﻿  Main.cpp
+C:\Users\philo\Google Drive\PY ATOM\CPP\MineSweeper\Main.cpp(69,27): warning C4129:  ' ': unrecognized character escape sequence
+C:\Users\philo\Google Drive\PY ATOM\CPP\MineSweeper\Main.cpp(38,39): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\philo\Google Drive\PY ATOM\CPP\MineSweeper\Main.cpp(38,26): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\philo\Google Drive\PY ATOM\CPP\MineSweeper\Main.cpp(135,23): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\philo\Google Drive\PY ATOM\CPP\MineSweeper\Main.cpp(148,14): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\philo\Google Drive\PY ATOM\CPP\MineSweeper\Main.cpp(190,24): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\philo\Google Drive\PY ATOM\CPP\MineSweeper\Main.cpp(190,21): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\philo\Google Drive\PY ATOM\CPP\MineSweeper\Main.cpp(191,29): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\philo\Google Drive\PY ATOM\CPP\MineSweeper\Main.cpp(191,23): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\philo\Google Drive\PY ATOM\CPP\MineSweeper\Main.cpp(192,29): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\philo\Google Drive\PY ATOM\CPP\MineSweeper\Main.cpp(192,23): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\philo\Google Drive\PY ATOM\CPP\MineSweeper\Main.cpp(211,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\philo\Google Drive\PY ATOM\CPP\MineSweeper\Main.cpp(461,41): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  1 of 86 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SFML Template.vcxproj -> C:\Users\philo\Google Drive\PY ATOM\CPP\MineSweeper\Release\SFML Template.exe
